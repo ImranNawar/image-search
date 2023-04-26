@@ -1,0 +1,23 @@
+.title {
+ font-size: x-large; 
+ /* padding: 50px; */
+ pointer-events: none;
+ text-align: center;
+ 
+}
+/* @media (prefers-reduced-motion: no-preference) {
+  .title {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+.link {
+  font-size: large;
+  color: #fff !important;
+  padding-right: 50px !important;
+}
+.header {
+  background-color: #333 !important;
+  color: #fff !important;
+  padding: 10px !important;
+  text-align: center !important;
+}
