@@ -1,6 +1,5 @@
 .title {
  font-size: x-large; 
- /* padding: 50px; */
  pointer-events: none;
  text-align: center;
  
@@ -20,4 +19,23 @@
   color: #fff !important;
   padding: 10px !important;
   text-align: center !important;
+}
+/* CSS for mobile devices */
+@media only screen and (max-width: 550px) {
+  /* Header */
+  .title {
+    font-size: large; 
+    pointer-events: none;
+    text-align: center;
+    
+   }
+   .link {
+     font-size: medium;
+     color: #fff !important;
+   }
+   .header {
+     background-color: #333 !important;
+     color: #fff !important;
+     text-align: center !important;
+   }
 }
