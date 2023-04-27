@@ -16,7 +16,7 @@ Check out the live demo of Image Search App [here](https://imrannawar.github.io/
 
 ## Technologies Used
 - React js
-- Bootstrap React
+- React-Bootstrap 
 - CSS
 
 ## Contributions
